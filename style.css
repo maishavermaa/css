@@ -1,0 +1,25 @@
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+html{
+    background-color: rgb(211, 148, 190);
+}
+.a{
+    color: white;
+    
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+
+}
+
+h1 {
+  font-family: "REM", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: uppercase;
+}
